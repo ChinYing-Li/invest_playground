@@ -1,0 +1,7 @@
+after: "2017-01-01"
+before: null
+portfolio:
+  file_path: "D:/invest/research/watchlist/watchlist.csv"
+  column: null
+file_types:
+  - "10-K"
